@@ -1,0 +1,5 @@
+formulario clientes
+formulario pan
+formulario pedidos:
+con un desplegable de la tabla pan
+otro para seleccionar usuarios
